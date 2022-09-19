@@ -1,0 +1,3 @@
+[submodule "Components/TinyMaix"]
+	path = Components/TinyMaix
+	url = git@github.com:sipeed/TinyMaix.git
